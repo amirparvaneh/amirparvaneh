@@ -1,10 +1,11 @@
-# Hi there, I'm [Amir Parvaneh] 👋
+# Hi there, I'm Amir Parvaneh 👋
 
-I'm a [Software Developer] passionate about [java, AI, Machine learning]. Welcome to my GitHub profile!
+I'm a Software Developer passionate about Java, Python, Microservices and Machine learning. Welcome to my GitHub profile!
 
 ## 🛠️ Languages and Tools
 
 Here are some of the technologies I work with:
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
@@ -24,8 +25,11 @@ Here are some of the technologies I work with:
 
 ## 🚀 Featured Projects
 
-- **[Project Name](https://github.com/yourusername/project-repo)**: A brief description of the project.
-- **[Project Name](https://github.com/yourusername/project-repo)**: Another project description.
+- **[spring microservice](https://github.com/amirparvaneh/spring-cloud-microservice)**: A brief description of the project.
+
+## 
+
+[![Amir Parvaneh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=amirparvaneh&theme=merko&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/amirparvaneh/github-readme-activity-graph)
 
 ## 🌐 Connect with Me
 
