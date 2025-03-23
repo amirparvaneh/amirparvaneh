@@ -1,7 +1,6 @@
 # Hi there, I'm [Amir Parvaneh] 👋
 
 I'm a [Software Developer] passionate about [java, AI, Machine learning]. Welcome to my GitHub profile!
-![](https://komarev.com/ghpvc/?username=amirparvaneh&label=PROFILE+VIEWS)
 
 ## 🛠️ Languages and Tools
 
@@ -32,7 +31,7 @@ Here are some of the technologies I work with:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-parvaneh/)
 ---
-
+![](https://komarev.com/ghpvc/?username=amirparvaneh&label=PROFILE+VIEWS)
 ⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate!
 
 <!--
