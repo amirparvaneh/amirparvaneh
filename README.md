@@ -19,9 +19,9 @@ Here are some of the technologies I work with:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirparvaneh&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=amirparvaneh&show_icons=true&theme=swift)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirparvaneh&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirparvaneh&layout=compact&theme=swift)
 
 ## 🚀 Featured Projects
 
